@@ -1,5 +1,5 @@
 import React from "react";
-import Weather from "./components/Weather";
+import Weather from "./Weather";
 import "./App.css";
 
 export default function App() {
@@ -10,7 +10,7 @@ export default function App() {
         <footer>
           This project was coded by Demira Pasalic and is{" "}
           <a
-            href="https://github.com/Demira11/official-react-weather-app"
+            href="https://github.com/Demira11/React-weather-app-GA/tree/main/src"
             target="_blank"
           >
             open-sourced on GitHub
