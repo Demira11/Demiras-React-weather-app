@@ -8,4 +8,4 @@ Technologies Used
 React: The app is built using React, a popular JavaScript library for building user interfaces.
 OpenWeatherMap API: Real-time weather data is fetched from the OpenWeatherMap API, which provides accurate and up-to-date weather information.
 
-Demo: https://capable-platypus-a7cf52.netlify.app/
+Demo: https://demira-react-weather-app-ga.netlify.app/
