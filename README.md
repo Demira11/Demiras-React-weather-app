@@ -1,5 +1,4 @@
-Weather App
-A simple weather app built with React that allows users to check the current weather conditions for a specific location. The app utilizes the OpenWeatherMap API to fetch real-time weather data.
+This is weather app built with React that allows users to check the current weather conditions for a specific location. The app utilizes the OpenWeatherMap API to fetch real-time weather data.
 
 Features
 Weather Information: Get detailed weather information for a specific location, including temperature, humidity, wind speed, and weather description.
